@@ -10,4 +10,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Improve skills in Angular, Node.js and TypeScript 
 
-Created using this tutorial =>[freeCodeCamp.org](https://www.youtube.com/watch?v=Kbauf9IgsC4&t=11361s)
+Created using this tutorial =>[freeCodeCamp.org youtube channel](https://www.youtube.com/watch?v=Kbauf9IgsC4&t=11361s)
